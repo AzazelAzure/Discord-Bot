@@ -1,0 +1,139 @@
+INFO:Server owner: None Guild owner check:None
+ERROR:Owner returned none
+INFO:!disc start check: 0
+INFO:!disc start check: False
+INFO:!disc start check: False
+INFO:!disc start check: False
+INFO:!disc start check: False
+INFO:!disc start check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 55, in on_message
+    start_check = channel_check(message.guild, message.channel)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 33, in channel_check
+    if channel_check[str(channel)] == read_check['channel']:
+TypeError: 'set' object is not subscriptable
+INFO:!disc start check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 55, in on_message
+    start_check = channel_check(message.guild, message.channel)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 33, in channel_check
+    if channel_check['channel'] == read_check['channel']:
+TypeError: 'set' object is not subscriptable
+INFO:!disc start check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 55, in on_message
+    start_check = channel_check(message.guild, message.channel)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 33, in channel_check
+    if channel_check['channel'] == read_check['channel']:
+KeyError: 'channel'
+INFO:!disc start check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 55, in on_message
+    start_check = channel_check(message.guild, message.channel)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 33, in channel_check
+    if channel_check['channel'] == read_check['channel']:
+KeyError: 'channel'
+INFO:!disc start check: False
+INFO:!disc start check: True
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 60, in on_message
+    await message.channel.send(f"Game already started in {game_started['channel']}")
+KeyError: 'channel'
+INFO:!disc start check: True
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 60, in on_message
+    await message.channel.send(f"Game already started in {game_started[str(channel)]}")
+NameError: name 'channel' is not defined
+INFO:!disc start check: True
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 60, in on_message
+    await message.channel.send(f"Game already started in {game_started[str(channel)]}")
+NameError: name 'channel' is not defined
+INFO:!disc start check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 55, in on_message
+    start_check = channel_check(message.guild, message.channel)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 33, in channel_check
+    if channel_check['channel'] == read_check[str(channel)]:
+KeyError: 'general'
+INFO:!disc start check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 55, in on_message
+    start_check = channel_check(message.guild, message.channel)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 33, in channel_check
+    if channel_check['channel'] == read_check[str(channel)]:
+KeyError: 'general'
+INFO:!disc start check: False
+INFO:!disc start check: True
+INFO:!disc start check: True
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 211, in on_message
+    create_char = create_char('new_char')
+UnboundLocalError: local variable 'create_char' referenced before assignment
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 211, in on_message
+    create_char = embedder('new_char')
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 139, in embedder
+    embed.add_field(value= 'Would you like to create a new character?', inline= True)
+TypeError: add_field() missing 1 required keyword-only argument: 'name'
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Discablo/discablo_bot.py", line 213, in on_message
+    await msg.add_reaction('Button: Yes')
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/message.py", line 1060, in add_reaction
+    await self._state.http.add_reaction(self.channel.id, self.id, emoji)
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/http.py", line 744, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In emoji_id: Value " Yes" is not snowflake.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.
+INFO:Shard ID None has successfully RESUMED session 77fd02ef02f7408c2a9f65e0040a6372.

@@ -1,0 +1,217 @@
+Library
+Morgue
+College Campus
+Farm
+Office Supply Store
+Parking Lot
+Strip Club
+The Red Light District
+Hospital
+Museum
+Dance Club
+Graveyard
+Abandoned Factory
+Volcano
+Warehouse
+Aerie
+Vehicle
+Plane
+Air Strip
+Animal Hospital
+Animal Shelter
+Aquarium
+Apartment
+House
+Annex
+Amusement Park
+Art Gallery
+Bar
+Auto Body Shop
+Aviary
+Barracks
+Barn
+Barber Shop
+Bayou
+Boat House
+Book Store
+Botanical Garden
+Brewery
+Bus Station
+Bus Stop
+Cabin
+Cafeteria
+Camp Ground
+Candy Factory
+Casino
+Carnival
+Castle
+Cathedral
+Car Wash
+Park
+Cave
+Cavern
+Chasm
+Chicken Farm
+Central Park
+Circus
+Coal Mine
+Coffee Shop
+Clock Tower
+Conference Room
+Coral Reef
+Prison
+Jail
+Dair Farm
+Dance Studio
+Detention Facility
+Distillery
+Drug & Alcohol Abuse Treatment Facility
+Dungeon
+River
+Embassy
+Movie Theater
+Dry Cleaner
+Factory
+Ferry Boat
+Firehouse
+Bridge
+Pier
+Funeral Home
+Funeral
+Wildlife Preserve
+Glacier
+Gold Mine
+Ghost Town
+Helicopter Pad
+History Museum
+Horse Race Track
+Car Race Track
+Insurance Office
+Hotel
+Motel
+Tavern
+Inn
+Airport
+Island
+Junkyard
+Jungle
+Forest
+Kennel
+Laboratory
+Lagoon
+Laundromat
+Law Firm
+Liquor Store
+Loading Dock
+Landfill
+Light House
+Lumber Mill
+Mansion
+Marina
+Log Cabin
+Marsh
+Maze
+Meadow
+Military Academy
+Mill
+Missle Base
+Mobile Home
+Moon
+Mountain Range
+Mountain Peak
+Canyon
+Nursing Home
+Nuclear Plant
+Nunnery
+Oasis
+Pit Mine
+Opera Hall
+Orchard
+Palace
+Concert
+Playground
+Pond
+Pool
+Pool Hall
+Polo Club
+Post Office
+Beach
+Private Beach
+Golf Course
+Private School
+Radio Station
+Putt-Putt Golf Course
+Raft
+Rail Yard
+Resort
+Rehab Center
+Religious Rally
+Restaurant
+Rice Paddy
+Riverbend
+Rock Garden
+Rooftop
+Sanitarium
+Abandoned Insane Asylum
+Salt Mine
+Satellite
+Sea Bank
+Sea Trench
+Seadrome
+Sewer
+Silver Mine
+Sinkhole
+Shopping Mall
+Skating Rink
+Snowfield
+Spa
+Sorority House
+Slaughter House
+Spacecraft
+Spansih Mission
+Stockyard
+Stadium
+Store
+Subway (not the food place)
+Summer Camp
+Swimming Pool
+Tanning Salon
+Temple
+Church
+Synagogue
+Terrarium
+Toll Both
+Theme Park
+Tour Bus
+Shooting Range
+Toxic Waste Storage Facility
+TV Station
+Trailer Park
+Tundra
+Tree Nursery
+Vault
+Villa
+Union Hall
+Underwater Facility
+Springs
+Vineyard
+Watch Tower
+Wax Museum
+Whaling Boat
+Winery
+Wedding Venue
+Woodshop
+Yacht
+Zoo
+Youth Camp
+Wilderness Park
+Canyon
+
+
+
+
+
+
+
+
+

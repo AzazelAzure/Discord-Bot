@@ -1,0 +1,3 @@
+INFO:Log start
+INFO:Caller: Skaypegote#1024 line:246
+INFO:!join players response: 1

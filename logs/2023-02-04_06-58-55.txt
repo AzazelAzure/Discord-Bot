@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/Alibis/alibi_bot.py", line 8, in <module>
+    import discord
+ModuleNotFoundError: No module named 'discord'

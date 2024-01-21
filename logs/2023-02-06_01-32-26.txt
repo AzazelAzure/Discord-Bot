@@ -1,0 +1,11 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py in ./.local/lib/python3.9/site-packages (2.1.0)
+Requirement already satisfied: aiohttp<4,>=3.7.4 in ./.local/lib/python3.9/site-packages (from discord.py) (3.8.3)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (1.8.2)
+Requirement already satisfied: aiosignal>=1.1.2 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (1.3.1)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (22.2.0)
+Requirement already satisfied: charset-normalizer<3.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (2.1.1)
+Requirement already satisfied: frozenlist>=1.1.1 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (1.3.3)
+Requirement already satisfied: async-timeout<5.0,>=4.0.0a3 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (4.0.2)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<4,>=3.7.4->discord.py) (6.0.4)
+Requirement already satisfied: idna>=2.0 in /usr/lib/python3/dist-packages (from yarl<2.0,>=1.0->aiohttp<4,>=3.7.4->discord.py) (2.8)

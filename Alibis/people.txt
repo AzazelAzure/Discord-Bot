@@ -1,0 +1,219 @@
+Hobo
+Stripper
+Car Salesman
+Mailman
+Student
+Dermatologist
+Surgeon
+Primary Care Doctor
+Pediatrician
+Plumber
+Water Restoration Tech
+Optician
+Optometrist
+Hobbit
+Child
+Grumpy Old Man
+Mother
+Father
+Sister
+Brother
+Cousin
+The God Odin
+Loki
+Thor
+Athena
+Artemis
+Zeus
+Apollo
+Cashier
+Stock Boy
+Accountant
+Actor
+Acupuncturist
+Manager
+Budget Analyst
+Maid
+Compliance Officer
+Scientist
+Architect
+Dentist
+Dietician
+Dredge Operator
+Truck Driver
+Editor
+Teacher
+Electrician
+Seamstress
+Fashoin Designer
+Host
+Hostess
+Lifeguard
+Mechanical Engineer
+Microbiologist
+Biologist
+Neurologist
+Paramedic
+Parking Attendant
+Phlebotomist
+Photographer
+Physicist
+Psychic
+Pile Driver Operator
+Pipelayer
+Podiatrist
+Poet
+Politician
+Police Officer
+Potters (Not Harry)
+Detective
+Producer
+Director
+Project Manager
+Child Protective Service Agents
+Psychiatrist
+Puplic Relations Specialist
+Radiation Therapist
+Real Estate Agent
+Receptionist
+Parks & Rec Manager
+Roofers
+Sailor
+School Bus Driver
+Secretary
+Security Guard
+Designer
+Sheet Metal Worker
+Shampooer
+Shoe Salesman
+Social Service Agent
+Software Developer
+Sound Engineer
+Engineer
+Special Forces Officer
+Soldier
+Marine
+Seaman
+Pathologist
+Stonemason
+Substance Abuse Counselor
+Subway Sandwich Maker
+Traffic Technician
+Transportation Worker
+Travel Agent
+Treasurer
+Tutor
+Umpire
+Referee
+Upholsterer
+Urologist
+Usher
+Veterinarian
+Video Game Designer
+Waiter
+Waitress
+Dairy Manager
+Web Developer
+Graphic Designer
+Welder
+Winf Energy Engineer
+Woodworker
+Writer
+Author
+Zoologist
+Wildlife Biologist
+Chef
+Tattoo Artist
+Translator
+Bartender
+Chimney Sweep
+Nanny
+Butler
+Adventurer
+Flight Attendant
+Florist
+Prisoner
+Correctional Officer
+Gynocologist
+Proctologist
+Gladiator
+Gardener
+Archer
+Prostitute
+Assassin
+Hair Dresser
+Cosmotologist
+Armorer
+Attorney
+Publisher
+Royal Adviser
+Finacial Adviser
+Healer
+Tax Specialist
+Ballerina
+Barista
+Historian
+Housekeeper
+Interior Designer
+Sculpter
+Blacksmith
+Shipwright
+Knight
+Slave (Consensual)
+Dom
+Sub
+Jewler
+Jester
+Body Guard
+Cake Decorator
+Butcher
+Hunter
+Book Binder
+Bounty Hunter
+Journalist
+Servant
+Smuggler
+Librarian
+Mayor
+Map Maker
+Logger
+Professional Escort
+Farmboy
+Tailor
+Taxi Driver
+Cook
+Midwife
+Pastor
+Minstrel
+Bard
+Morgue Attendant
+Mortician
+Nun
+Nurse
+Painter
+Peasant
+Pharmacist
+Piercer
+Witch
+Weapon Instructor
+Farmer
+Exterminator
+Firefighter
+Weaver
+Potioneer
+Yogo Instructor
+Fisherman
+Explorer
+Undertaker
+Underwriter
+Manager
+Grave Digger
+Taxadermist
+Tour Guide
+Theif
+Toilet Attendant
+Papermaker
+Model
+
+
+

@@ -1,0 +1,59 @@
+INFO:Log start
+INFO:Caller: Skaypegote#1024 line:246
+INFO:!join players response: 1
+INFO:Caller: 3ftAspyn#2845 line:246
+INFO:!join players response: 2
+INFO:Caller: Yuki-Onna#0929 line:246
+INFO:!join players response: 3
+INFO:Judge: 3ftAspyn#2845
+
+INFO:Killer: Skaypegote#1024
+
+INFO:Location: Drug & Alcohol Abuse Treatment Facility
+INFO:!next play=readlines: ['Skaypegote#1024\n', '3ftAspyn#2845\n', 'Yuki-Onna#0929\n']
+INFO:!next x.read: Skaypegote#1024
+3ftAspyn#2845
+Yuki-Onna#0929
+INFO:!next random player : Yuki-Onna#0929
+INFO:!next x.replace: Skaypegote#1024
+3ftAspyn#2845
+
+INFO:jcheck x: 3ftAspyn#2845
+jcheck check: Yuki-Onna#0929
+jcheck comp: Falsejcheck player: Yuki-Onna#0929
+INFO:n_player check: Yuki-Onna#0929
+INFO:!next play=readlines: ['Skaypegote#1024\n', '3ftAspyn#2845\n']
+INFO:!next x.read: Skaypegote#1024
+3ftAspyn#2845
+INFO:!next random player : 3ftAspyn#2845
+INFO:!next x.replace: Skaypegote#1024
+
+INFO:jcheck x: 3ftAspyn#2845
+jcheck check: 3ftAspyn#2845
+jcheck comp: Truejcheck player: 3ftAspyn#2845
+INFO:!next play=readlines: ['Skaypegote#1024\n']
+INFO:!next x.read: Skaypegote#1024
+INFO:!next random player : Skaypegote#1024
+INFO:!next x.replace: 
+INFO:jcheck x: 3ftAspyn#2845
+jcheck check: Skaypegote#1024
+jcheck comp: Falsejcheck player: Skaypegote#1024
+INFO:n_player check: Skaypegote#1024
+INFO:!next play=readlines: []
+INFO:!next x.read: 
+INFO:n_player check: False
+ERROR:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server439821/.local/lib/python3.9/site-packages/discord/client.py", line 409, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server439821/./Alibis/alibi_bot.py", line 398, in on_message
+    n_user = await converter.convert(message.author, n_player.rstrip())
+AttributeError: 'bool' object has no attribute 'rstrip'
+INFO:jcheck x: 3ftAspyn#2845
+jcheck check: Skaypegote#1024
+jcheck comp: Falsejcheck player: Skaypegote#1024
+INFO:!accuse jcheck: Call: Skaypegote#1024 Response: False
+INFO:jcheck x: 3ftAspyn#2845
+jcheck check: 3ftAspyn#2845
+jcheck comp: Truejcheck player: 3ftAspyn#2845
+INFO:!accuse jcheck: Call: 3ftAspyn#2845 Response: True
