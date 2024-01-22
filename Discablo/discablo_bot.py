@@ -60,7 +60,7 @@ def bug_report(report):
     """Creates and emails a bug report"""
     sender = "etusnproctor@gmail.com"
     recipient = "etusnproctor@gmail.com"
-    password = "rrjm wusl sboo ejnm"
+    password = ""
 
     message = MIMEText(report)
     message["Subject"] = "Discord Bot Bug Report"
@@ -285,4 +285,4 @@ async def on_guild_join(guild):
         await join_channel.send(message2)
 
 
-client.run('MTA3MjI5OTkwNzc5NDM0NjA4NA.GyCEeq.JntVWGnxE0nzR4_AQeb3J4tzyBj1TUV7toFoko')
+client.run('')
