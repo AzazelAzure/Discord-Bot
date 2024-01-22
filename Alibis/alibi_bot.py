@@ -23,7 +23,7 @@ from random import randint
 def bug_report(report):
     sender = "etusnproctor@gmail.com"
     recipient = "etusnproctor@gmail.com"
-    password = "rrjm wusl sboo ejnm"
+    password = ""
 
     message = MIMEText(report)
     message["Subject"] = "Discord Bot Bug Report"
@@ -454,4 +454,4 @@ intents.guilds = True
 
 client = MyClient(intents=intents)
 
-client.run('MTA3MTMxMTg4MjE2MzU4OTE1MQ.GdJmF1.kPKe4peRhXuy8LUs_HtPHgC_Jkp9Y7M2quffWs')
+client.run('')
